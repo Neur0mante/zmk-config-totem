@@ -29,10 +29,10 @@
 
         nav_num {
             bindings = <
-               &kp LA(BACKSPACE)   &kp BACKSPACE  &kp UP     &kp DELETE     &kp LA(DELETE)        &kp N5      &kp N6           &kp N7       &kp N8    &kp N9
-               &kp LA(LEFT_ARROW)  &kp LEFT       &kp DOWN   &kp RIGHT      &kp LA(RIGHT)         &kp N0      &kp N1           &kp N2       &kp N3    &kp N4
-&kp LG(LCTRL)  &kp LG(UP_ARROW)    &kp LG(LEFT)   &kp ENTER  &kp LG(RIGHT)  &kp LG(DOWN_ARROW)    &kp PERIOD  &kp PLUS         &kp MINUS    &kp STAR  &kp FSLH  &kp CARET
-                                                  &trans     &trans         &trans                &kp EQUAL   &kp RIGHT_SHIFT  &kp PERCENT
+               &kp LA(BACKSPACE)   &kp BACKSPACE  &kp UP     &kp DELETE     &kp LA(DELETE)        &kp N7        &kp N8           &kp N9        &kp COMMA   &kp SQT
+               &kp LA(LEFT_ARROW)  &kp LEFT       &kp DOWN   &kp RIGHT      &kp LA(RIGHT)         &kp NUMBER_4  &kp N5           &kp NUMBER_6  &kp N0      &kp EQUAL
+&kp LG(LCTRL)  &kp LG(UP_ARROW)    &kp LG(LEFT)   &kp ENTER  &kp LG(RIGHT)  &kp LG(DOWN_ARROW)    &kp NUMBER_1  &kp NUMBER_2     &kp NUMBER_3  &kp PERIOD  &kp FSLH   &kp CARET
+                                                  &trans     &trans         &trans                &kp SPACE     &kp RIGHT_SHIFT  &kp PERCENT
             >;
         };
 
